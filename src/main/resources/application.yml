@@ -1,0 +1,9 @@
+feign:
+  todo:
+    url: https://jsonplaceholder.typicode.com
+  person:
+    url: https://api.randomdatatools.ru
+
+logging:
+  level:
+    com.example.logmasklib.*: debug
